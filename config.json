@@ -1,11 +1,11 @@
 {
-  "token": "FAKE_TOKEN_1234",
-  "secret": "FAKE_SECRET_5678",
-  "id": "1376034171268632636",
+  "token": "MTQ3MDg1NDc2NDI3ODQ1MjQ2Nw.Gj86no.JxH7_pIveKd4h6d7NVRkv84Bs4z95h0-YLDpPg",
+  "secret": "LSpUgc-66C6Qklou7-PFLj85T97q7txH",
+  "id": "1470854764278452467",
   "redirect": "http://127.0.0.1:5000/done",
   "api_endpoint": "https://canary.discord.com/api/v8",
   "logs": [
-    "FAKE_WEBHOOK_1",
-    "FAKE_WEBHOOK_2"
+    "https://discord.com/api/webhooks/1470855845028954293/0GyEl5P2bkTD88V_kSBcb5B7oZNPirPI2R2mL0U6crYZbDHgaJM2DjObBR7M5jLtNdVY",
+    "https://discord.com/api/webhooks/1470856064730796188/VvAJyeMh290FbHJ8iwFjIGxC25o7TAUBVZVs-PcYAtn-S2FXQNBaMWqwL-VZUvDRXjyt"
   ]
 }
